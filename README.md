@@ -1,3 +1,1 @@
-# Grateful-Scholar
-
 I see learning as a privilege, a luxury, and a blessing. Not everyone has the time or opportunity to sit down and study. This repository is where I document that gratitude through the courses I take and the notes I keep.
